@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @AhmedYasinRamzan
-- 👀 I’m interested in coding, HTMl CSS JavaScript and web development.
-- 🌱 I’m currently learning JavaScript
-- 💞 I’m looking to collaborate on website development.
-- 📫 Reach me on instagram @ahmedyasinramzan or Facebook @ahmedyasinramzan
+Just doing my College projects 
+ooh and learning web development part time.
 
 <!---
 AhmedYasinRamzan/AhmedYasinRamzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
